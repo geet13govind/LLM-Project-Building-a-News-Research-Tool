@@ -1,5 +1,4 @@
 langchain==0.0.255
-streamlit
-newsapi==0.1.1
-python
+streamlit==1.22.0
+newsapi-python
 langchain-groq

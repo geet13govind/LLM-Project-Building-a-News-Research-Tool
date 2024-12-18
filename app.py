@@ -4,7 +4,7 @@ import streamlit as st
 from langchain_core.prompts import PromptTemplate
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
-from newsapi import NewsApiClient
+from newsapi.newsapi_client import NewsApiClient
 import os
 
 # Load environment variables
