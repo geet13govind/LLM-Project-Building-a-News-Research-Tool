@@ -20,13 +20,21 @@ The project also includes a user-friendly interface built with Streamlit, allowi
 ## Technologies Used
 
 #### Programming Language: 
-Python
-#### * APIs:
+* Python
+####  APIs:
 * Groq LLM API
 * NewsAPI
-#### * Libraries:
+####  Libraries:
 * langchain
 * groq-cloud
 * streamlit
 * newsapi-python
-dotenv
+* dotenv
+
+## Installation and Setup
+
+### 1. Clone the Repository
+
+git clone https://github.com/your-username/enhanced-news-summarizer.git
+
+cd enhanced-news-summarizer
