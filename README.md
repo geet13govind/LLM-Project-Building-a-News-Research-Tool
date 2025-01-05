@@ -38,3 +38,12 @@ The project also includes a user-friendly interface built with Streamlit, allowi
 git clone https://github.com/your-username/enhanced-news-summarizer.git
 
 cd enhanced-news-summarizer
+
+## 2. Create a Virtual Environment
+
+python -m venv env
+* Activate the environment
+* On Windows:
+env\Scripts\activate
+* On macOS/Linux:
+source env/bin/activate
