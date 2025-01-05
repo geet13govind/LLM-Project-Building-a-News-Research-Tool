@@ -84,10 +84,17 @@ streamlit run app.py
 ## Project Structure
 
 enhanced-news-summarizer/
+
 │
+
 ├── app.py                    # Streamlit web application
+
 ├── langchain_config.py        # Core pipeline configuration (NewsAPI + Groq LLM)
+
 ├── requirements.txt           # Python dependencies
+
 ├── .env                       # API keys (not included in the repo for security)
+
 ├── README.md                  # Project documentation
+
 └── Enhanced_News_Summarizer_Project_Summary.docx
