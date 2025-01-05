@@ -41,6 +41,35 @@ cd enhanced-news-summarizer
 
 ## 2. Create a Virtual Environment
 
+
+## 3. Install Dependencies
+
+pip install -r requirements.txt
+
+## 4. Add API Keys
+
+* Create a .env file in the project root directory.
+* Add the following keys:
+GROQ_API_KEY=your-groq-api-key
+
+NEWSAPI_KEY=your-newsapi-key
+
+## Usage
+
+### Run the Application
+
+streamlit run app.py
+
+### How to Use
+
+1. Open the link displayed in the terminal (e.g., http://localhost:8501).
+
+2. Enter a query in the input box (e.g., "Impact of inflation on stock markets").
+
+3. Click on Get Enhanced Summary.
+
+4. View the summarized output in the app.
+
+## Project Structure
+
 ![Uploading image.png…]()
-
-
