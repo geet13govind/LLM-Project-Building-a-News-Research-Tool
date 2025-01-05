@@ -41,6 +41,17 @@ cd enhanced-news-summarizer
 
 ## 2. Create a Virtual Environment
 
+python -m venv env
+
+* Activate the environment
+
+On Windows:
+
+env\Scripts\activate
+
+On macOS/Linux:
+
+source env/bin/activate
 
 ## 3. Install Dependencies
 
@@ -72,4 +83,11 @@ streamlit run app.py
 
 ## Project Structure
 
-![Uploading image.png…]()
+enhanced-news-summarizer/
+│
+├── app.py                    # Streamlit web application
+├── langchain_config.py        # Core pipeline configuration (NewsAPI + Groq LLM)
+├── requirements.txt           # Python dependencies
+├── .env                       # API keys (not included in the repo for security)
+├── README.md                  # Project documentation
+└── Enhanced_News_Summarizer_Project_Summary.docx
