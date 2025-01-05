@@ -1,4 +1,4 @@
-# LLM-Project-Building-a-News-Research-Tool
+![image](https://github.com/user-attachments/assets/d660f996-efdf-419f-afdc-f1f0446386ae)# LLM-Project-Building-a-News-Research-Tool
 
 ## Overview
 
@@ -41,9 +41,6 @@ cd enhanced-news-summarizer
 
 ## 2. Create a Virtual Environment
 
-python -m venv env
-* Activate the environment
-* On Windows:
-env\Scripts\activate
-* On macOS/Linux:
-source env/bin/activate
+![Uploading image.png…]()
+
+
