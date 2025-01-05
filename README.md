@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d660f996-efdf-419f-afdc-f1f0446386ae)# LLM-Project-Building-a-News-Research-Tool
+# LLM-Project-Building-a-News-Research-Tool
 
 ## Overview
 
