@@ -16,3 +16,17 @@ The project also includes a user-friendly interface built with Streamlit, allowi
 * Built with Streamlit for a seamless user experience.
 #### Error Handling:
 * Provides warnings for invalid inputs or API issues.
+
+## Technologies Used
+
+#### Programming Language: 
+Python
+#### * APIs:
+* Groq LLM API
+* NewsAPI
+#### * Libraries:
+* langchain
+* groq-cloud
+* streamlit
+* newsapi-python
+dotenv
